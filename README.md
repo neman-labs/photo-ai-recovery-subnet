@@ -68,17 +68,11 @@ Miners must **remove watermarks** from an image while maintaining the integrity 
 
 ### Validator
 
-Validators are responsible for analyzing and verifying data submitted by miners.
-
 If you are interested in validating, follow this [guide](docs/VALIDATOR.md).
 
 Validators create [tasks](#tasks) every 5 minutes.
 
 ### Miner
-
-Miners in the Bittensor subnet are responsible for solving validators' tasks and providing computational resources.
-
-In the baseline solution, LLMs are used to identify and score each article.
 
 If you are interested in mining, follow this [guide](docs/MINER.md).
 
